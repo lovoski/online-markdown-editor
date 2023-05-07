@@ -1,6 +1,6 @@
 {
   "name": "online-markdown-editor",
-  "homepage": "https://github.com/lovoski/online-markdown-editor",
+  "homepage": "https://lovoski.github.io/online-markdown-editor",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
